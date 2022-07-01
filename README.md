@@ -1,7 +1,7 @@
 
 # In the terminal, run the Streamlit application by using `streamlit run pychain.py`.
 
-![alt text](streamlit_command.jpg)
+![alt text](https://github.com/livelyvinay4u/PyChain-Ledger/blob/main/pychain_streamlit_page.JPG)
 
 ![alt text](pychain_streamlit_page.jpg)
 
